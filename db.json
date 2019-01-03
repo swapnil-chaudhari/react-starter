@@ -1,0 +1,9 @@
+{
+  "invoices": [
+    { "id": 1, "invoiceId": 101, "customerName": "Swapnil", "customerAddress": "Kalyan",  "amount": 500 }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
